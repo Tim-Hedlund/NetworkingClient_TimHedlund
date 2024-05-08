@@ -2,7 +2,7 @@ import java.io.*;
 import java.net.*;
 public class NetworkingClient {
 
-    public static void main(String args[]) {
+    public static void main(String[] args) {
 
         Socket client = null;
 
