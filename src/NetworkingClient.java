@@ -6,7 +6,7 @@ public class NetworkingClient {
 
         Socket client = null;
 
-        int portNumber = 55623; //samma tänk som andra fast inte samma port utan en över
+        int portNumber = 55622; //samma som andra
         if (args.length >= 1) {
             portNumber = Integer.parseInt(args[0]);
         }
